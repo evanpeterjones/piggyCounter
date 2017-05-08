@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Piggy</string>
+    <string name="quarter">Quarter, value = +25</string>
+    <string name="penny">Penny, value = +1</string>
+    <string name="dime">Dime, value +10</string>
+    <string name="nickel">Nickel, value +5</string>
+</resources>
